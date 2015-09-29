@@ -9,7 +9,7 @@ Available use-stories are:
     - Player can save a game
     - Player can load a game
 
-NOTE:
+- NOTE
     - In current implementation, a rudimentary console based user interface is used. However, it can easily be replace by a better
         implementation of "UserInterface".
     - New Topics could be added to system by implementing "Topic" and extending TopicRepository to register and retrieve topics.
